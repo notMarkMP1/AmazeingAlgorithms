@@ -1,0 +1,2 @@
+mazelib==0.9.16
+pygame==2.6.0
